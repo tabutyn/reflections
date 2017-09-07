@@ -1,0 +1,4 @@
+What haps when init a rep?
+Make a .git file.
+Why need do it?
+No .git if don\t

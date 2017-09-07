@@ -1,0 +1,23 @@
+Finding differenes was easy with FC
+All the changes were imediatly shown
+I love FC now
+I will use it all the time.
+How could having access to history save time?
+If i had history and something stopped working
+I could just compare the file to and old version
+and quickly find what caused the bug or error.
+What are the pros and cons of manually choosing?
+pros:
+logical points.
+not too large or too small
+cons:
+humans forget to do things
+Why does git focus on multiple files?
+because git is for coding.
+when we are coding how multiple files relate to eachother is important.
+How can use git log to find the codes of past commits.
+Then use git diff to find the differences of these two commits.
+How will git make you more confident?
+If I make a mistake I know I can go back and fix it.
+Now that the work space is set up what do I want to use it for?
+Making an app and creating version control so I don't fuck something up.
