@@ -2,3 +2,7 @@ What haps when init a rep?
 Make a .git file.
 Why need do it?
 No .git if don\t
+How is staging area different from the working dir and the repo?
+It is an itermediate step to give more control to what gets added to repo
+What value?
+gives more control.
