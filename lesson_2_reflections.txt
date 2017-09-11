@@ -6,3 +6,16 @@ How is staging area different from the working dir and the repo?
 It is an itermediate step to give more control to what gets added to repo
 What value?
 gives more control.
+How can you use the staging area to make sure you have one commit per logica change?
+By adding a specified number of files at a time instead of a full directory.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you want to add a feature but not mess up the main line. Branches would hlep with this because
+the main line would stay working.
+How do the diagrams help you visualize the branch structure?
+Helps me see what changes affect which branches.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is both features in one branch. We represent it in the diagram the way we do because all
+those commits are visible from the master branch now.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: easy
+cons: can sometimes make mistakes.
