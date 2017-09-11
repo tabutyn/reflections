@@ -5,3 +5,8 @@ When collaborating or you want to work accross multiple computers or have a clou
 Pull manually?
 
 because that way your code doesn't change unexpectedly.
+
+Forks, clones, branches?
+
+Forks clone repositories within github. clone are on your local machine. 
+Branch starts a new chain of commits.
